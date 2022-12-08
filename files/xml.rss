@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <atom:link href="https://Telumire.github.io/tw5-rss//files/xml.rss" rel="self" type="application/rss+xml" />
+  <title>RSS</title>
+  <link>https://rss.tiddlyhost.com/</link>
+  <description>Rss feed in tiddlywiki</description>
+  <language>en-GB</language>
+  <lastBuildDate>Thu, 08 Dec 2022 21:26:55 GMT</lastBuildDate>
+	<item>
+      <title>Title of the article</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p>Content of the article</p>]]></content:encoded>
+	  <pubDate>Thu, 08 Dec 2022 19:11:03 GMT</pubDate>
+      <link>https://rss.tiddlyhost.com/#Title%20of%20the%20article</link>
+      <guid isPermaLink='true'>https://rss.tiddlyhost.com/#Title%20of%20the%20article</guid>
+   </item>
+</channel>
+</rss>
