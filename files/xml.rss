@@ -6,8 +6,16 @@
   <link>https://rss.tiddlyhost.com/</link>
   <description>Rss feed in tiddlywiki</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 08 Dec 2022 21:49:47 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Dec 2022 04:49:33 GMT</lastBuildDate>
 	<item>
+      <title>Another dummy article</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p><p>For testing the newsletter</p></p>]]></content:encoded>
+	  <pubDate>Fri, 09 Dec 2022 04:49:33 GMT</pubDate>
+      <link>https://rss.tiddlyhost.com/#Another%20dummy%20article</link>
+      <guid isPermaLink='true'>https://rss.tiddlyhost.com/#Another%20dummy%20article</guid>
+   </item><item>
       <title>This is a dummy article</title>
       <description></description>
       <category>article</category>
